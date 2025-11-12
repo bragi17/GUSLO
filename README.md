@@ -9,5 +9,5 @@ The dataset supports the structured light optimization framework proposed in the
 
 **Note on Training Data**
 
-The dataset used for training the photometric network is currently undergoing further cleaning and quality refinement. It is expected to be released around January 2025. Please stay tuned for updates.
+The dataset used for training the photometric network is currently undergoing further cleaning and quality refinement. It is expected to be released around January 2026. Please stay tuned for updates.
 
