@@ -3,7 +3,7 @@
 This repository contains the dataset associated with the paper:
 
 > **GUSLO: General and Unified Structured Light Optimization**  (AAAI'26)
-
+[[PDF]](https://arxiv.org/abs/2501.14659)
 
 The dataset supports the structured light optimization framework proposed in the paper and is provided for academic research purposes only.
 
